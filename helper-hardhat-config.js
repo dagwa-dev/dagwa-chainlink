@@ -33,6 +33,7 @@ const networkConfig = {
         fee: "100000000000000000",
         fundAmount: "100000000000000000", // 0.1
         automationUpdateInterval: "30",
+        subscriptionId: 7220,
     },
     137: {
         name: "polygon",
